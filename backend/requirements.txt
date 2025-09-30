@@ -1,0 +1,5 @@
+datasets==4.1.1
+pinecone==7.3.0
+sentence-transformers==5.1.1
+boto3==1.40.40
+huggingface-hub==0.35.1
