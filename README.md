@@ -121,15 +121,6 @@ Bot: Perfect! Here are some recipes:
      2. Mediterranean Wrap ⭐ 4.8/5
 ```
 
-## Cost Breakdown
-
-**Monthly Costs (100 queries/month):**
-- AWS Lambda: ~$0.20
-- AWS Bedrock: ~$0.40
-- S3 + CloudFront: ~$0.00 (free tier)
-- Pinecone: ~$0.64 (5,000 recipes)
-- **Total: ~$1.24/month**
-
 ## Development
 
 ### Project Structure
